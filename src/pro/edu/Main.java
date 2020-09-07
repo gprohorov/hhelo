@@ -9,6 +9,7 @@ public class Main {
         short b = 5000;
         int c = 12000000;
         long d =1000;
+        //dtfvyhbubnunyhfvcgdchbjbhfcgdgcvgc
         float e = 2.5f;
         double f = 1.9;
         char g = '#';
